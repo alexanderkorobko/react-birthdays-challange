@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-birthdays-challange/static/css/main.7259e376.chunk.css",
+    "main.js": "/react-birthdays-challange/static/js/main.01aaa008.chunk.js",
+    "main.js.map": "/react-birthdays-challange/static/js/main.01aaa008.chunk.js.map",
+    "runtime-main.js": "/react-birthdays-challange/static/js/runtime-main.6684cb43.js",
+    "runtime-main.js.map": "/react-birthdays-challange/static/js/runtime-main.6684cb43.js.map",
+    "static/js/2.26456be9.chunk.js": "/react-birthdays-challange/static/js/2.26456be9.chunk.js",
+    "static/js/2.26456be9.chunk.js.map": "/react-birthdays-challange/static/js/2.26456be9.chunk.js.map",
+    "index.html": "/react-birthdays-challange/index.html",
+    "static/css/main.7259e376.chunk.css.map": "/react-birthdays-challange/static/css/main.7259e376.chunk.css.map",
+    "static/js/2.26456be9.chunk.js.LICENSE.txt": "/react-birthdays-challange/static/js/2.26456be9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6684cb43.js",
+    "static/js/2.26456be9.chunk.js",
+    "static/css/main.7259e376.chunk.css",
+    "static/js/main.01aaa008.chunk.js"
+  ]
+}
